@@ -27,7 +27,7 @@
 		<p id="nickError">test</p>
 		<form id="setNick">
 			<input size="35" id="nickname"></input>
-			<input type="submit"></input>
+			<input type="submit">Submit</input>
 		</form>
 	</div>
 
